@@ -9,6 +9,7 @@ title: Rust 快速入门
 
 > [!|center] 
 > 普若哥曼
+> https://github.com/wu-hongbing/rust-quick-start-guide
 
 ---
 # 前言

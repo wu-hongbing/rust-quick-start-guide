@@ -918,7 +918,7 @@ Rust 设计这样的规则的目的是为了便于从 `main.rs` 或 `lib.rs` 根
 
 Rust 构建模块树的规则由下图所示。
 
-![](attachment/Diagram 4.svg)
+![](attachment/Diagram4.svg)
 
 ### 用模块组织 bin crate 中的函数
 

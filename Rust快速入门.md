@@ -920,6 +920,8 @@ Rust 构建模块树的规则由下图所示。
 
 ![](attachment/Diagram4.svg)
 
+图：模块树的规则构建规则
+
 ### 用模块组织 bin crate 中的函数
 
 这里创建一个名为 `my_project` 的 *bin crate* 来说明模块树的构建规则，*lib crate*与此完全类似。该 crate 的路径同样命名为 `my_project`，该路径包含了这些文件和目录：
